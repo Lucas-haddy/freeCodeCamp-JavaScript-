@@ -1,0 +1,13 @@
+console.log("Hello! I'm your coding fun fact guide!");
+const botName = "codyBot";
+const botLocation = "New Zealand";
+const favoriteLanguage = "JavaScript";
+console.log("My name is " + botName + " and I live on " + botLocation + ".");
+console.log("My favorite programming language is " + favoriteLanguage + ".");
+let codingFact = "Fun fact: Did you know that JavaScript was universally hated until the early 2000's?";
+console.log(codingFact);
+codingFact = "Did you know that " + favoriteLanguage + " was iterated on into programs like TypeScript?";
+console.log(codingFact);
+codingFact = "My favorite language, " + favoriteLanguage + ", is very versatile.";
+console.log(codingFact);
+console.log("It was fun sharing these facts with you. Goodbye! - " + botName + " from " + botLocation + ".");
